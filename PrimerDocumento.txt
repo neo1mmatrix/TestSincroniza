@@ -1,1 +1,14 @@
 Este es mi primer documento
+
+
+
+
+
+
+
+
+Estoy en la linea 10 de Juan(
+este cambio lo relizo juan esprando no morirse
+en un conjunto de intruciones que 
+devuelven alomnatidos
+)
